@@ -35,4 +35,4 @@ https://makerworld.com/en/models/965971-mk3-full-sized-ironman-helmet?from=searc
 
 Other repositories:
 
-https://github.com/TheMechanicB7200/Project_IronMan/blob/main/README.md
+https://github.com/TheMechanicB7200/Project_IronMan/tree/main
